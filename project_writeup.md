@@ -37,18 +37,18 @@ The goals / steps of this project are the following:
 #### 1. The entire repo's structure is like this:
 * "adv_lane_detection.ipynb": code file
 * "out3.mp4": output video file
-* "output_images/": output image folder, which then includes:
-&nbsp;&nbsp;&nbsp;&nbsp; -- "README.txt": readme txt file
-&nbsp;&nbsp;&nbsp;&nbsp; -- "chess_board_images/": 2x images, board corner detection and distortion corrected for a sample chessboard image.
-&nbsp;&nbsp;&nbsp;&nbsp; Each of all other folders includes 6x test results based on every test image from test_image/ folder. 6x images are: distortion correction, combined binary, birds eye, fit lane to box, fit lanes, and output.
-&nbsp;&nbsp;&nbsp;&nbsp; -- "straight_lines1/": 6x images based on test_images/straight_line1.jpg
-&nbsp;&nbsp;&nbsp;&nbsp; -- "straight_lines2/": 6x images based on test_images/straight_line2.jpg
-&nbsp;&nbsp;&nbsp;&nbsp; -- "test1/": 6x images based on test_images/test1.jpg
-&nbsp;&nbsp;&nbsp;&nbsp; -- "test2/": 6x images based on test_images/test2.jpg
-&nbsp;&nbsp;&nbsp;&nbsp; -- "test3/": 6x images based on test_images/test3.jpg
-&nbsp;&nbsp;&nbsp;&nbsp; -- "test4/": 6x images based on test_images/test4.jpg
-&nbsp;&nbsp;&nbsp;&nbsp; -- "test5/": 6x images based on test_images/test5.jpg
-&nbsp;&nbsp;&nbsp;&nbsp; -- "test6/": 6x images based on test_images/test6.jpg
+* "output_images/": output image folder, which then includes: 
+* &nbsp;&nbsp;&nbsp;&nbsp; -- "README.txt": readme txt file 
+* &nbsp;&nbsp;&nbsp;&nbsp; -- "chess_board_images/": 2x images, board corner detection and distortion corrected for a sample chessboard image.
+* &nbsp;&nbsp;&nbsp;&nbsp; Each of all other folders includes 6x test results based on every test image from test_image/ folder. 6x images are: distortion correction, combined binary, birds eye, fit lane to box, fit lanes, and output.
+* &nbsp;&nbsp;&nbsp;&nbsp; -- "straight_lines1/": 6x images based on test_images/straight_line1.jpg
+* &nbsp;&nbsp;&nbsp;&nbsp; -- "straight_lines2/": 6x images based on test_images/straight_line2.jpg
+* &nbsp;&nbsp;&nbsp;&nbsp; -- "test1/": 6x images based on test_images/test1.jpg
+* &nbsp;&nbsp;&nbsp;&nbsp; -- "test2/": 6x images based on test_images/test2.jpg
+* &nbsp;&nbsp;&nbsp;&nbsp; -- "test3/": 6x images based on test_images/test3.jpg
+* &nbsp;&nbsp;&nbsp;&nbsp; -- "test4/": 6x images based on test_images/test4.jpg
+* &nbsp;&nbsp;&nbsp;&nbsp; -- "test5/": 6x images based on test_images/test5.jpg
+* &nbsp;&nbsp;&nbsp;&nbsp; -- "test6/": 6x images based on test_images/test6.jpg
 
 ### Camera Calibration
 
